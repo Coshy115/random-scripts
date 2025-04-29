@@ -1,3 +1,4 @@
+##CHECK FOR DEPENDENCIES (pip, yt-dlp)
 import subprocess
 
 # Switches to Desktop directory.

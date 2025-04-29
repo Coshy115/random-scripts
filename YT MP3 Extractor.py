@@ -1,4 +1,4 @@
-##CHECK FOR DEPENDENCIES (pip, yt-dlp)
+##CHECK FOR DEPENDENCIES (pip, yt-dlp, ffmpeg, ffprobe)
 import subprocess
 
 # Switches to Desktop directory.
